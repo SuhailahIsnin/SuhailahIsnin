@@ -1,5 +1,5 @@
 - Name: @SuhailahIsnin 
-- Emails: suhailah@smart.mit.edu or suhailahisnin@gmail.com
+- Email: suhailahisnin@gmail.com
 
 <!---
 SuhailahIsnin/SuhailahIsnin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
